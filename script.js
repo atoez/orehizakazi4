@@ -116,6 +116,7 @@ function getCategoryName(category) {
     'honey': 'В меду',
     'candy': 'Конфеты',
     'mix': 'Смеси'
+    'hazelnut': 'Фундук'
   };
   return names[category] || category;
 }
@@ -136,6 +137,7 @@ function getCategoryEmoji(category) {
     'honey': '🍯',
     'candy': '🍬',
     'mix': '🥗'
+    'hazelnut': '🌰'
   };
   return emojis[category] || '📦';
 }
