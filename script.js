@@ -5,7 +5,7 @@ let cart = [];
 let selectedWeights = {};
 
 // URL твоего Google Apps Script
-const GOOGLE_SHEET_URL = 'https://script.googleusercontent.com/macros/echo?user_content_key=AWDtjMVXCekPlIyP0dLj9i9bdIenbfuMKZ1O-YIcfOatlCi_7RrvnZ5yd9yb37rgVomMZ65U81ImltX_aqs80If7B7bEuhrFioYOG2gVTb-HFw_hg9ZPwxt8LFIxs1-1cMHQ2BenbQrBfvAzzadlIk29THdZzh5ifCkFo67s9XymlRQQwDmKorrszmQ1qYr2Y82mTXo062kuhRqR2YpM8HGtL1wqDuZFiOWt8HuWAtnEP8qifbUHxgNNFkPRKNkFkfsdK27aG8ipSNhWvcPoW9Oq4bGHmbgYgg&lib=MGRu6BAGfAORSI_LtQBIF6P-lgn2wNgdM';
+const GOOGLE_SHEET_URL = 'https://script.google.com/macros/s/AKfycbzTtNM2U-fb2ENK8eB8NgQCcUKCBLO7F2miRg9aY3ZH3XrfosvCnQIjlVqv4uAmF1XU/exec';
 
 // ===== ЗАГРУЗКА ТОВАРОВ ИЗ ТАБЛИЦЫ =====
 // ===== ЗАГРУЗКА ТОВАРОВ ИЗ ТАБЛИЦЫ (ВСЕГДА СВЕЖИЕ) =====
